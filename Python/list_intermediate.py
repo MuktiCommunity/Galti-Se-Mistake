@@ -2,7 +2,7 @@
 import sys
 groceries = []
 count = {}
-
+#hiiiiiiiiiiii
 def getlist():
     for i in range(0,len(sys.argv)) #should start from 1 because sys.argv[0] is the python file name, and missing colon for the loop
         groceries.append(sys.argv[i]) #optimise by using strip() and title() to avoid logical errors

@@ -16,7 +16,7 @@ deff number_guessing_game(): #There's a typo here find it.
         attempts += 1
 
         if guess == secret_number:
-            print(f"Congratulations! You guessed the correct number in {attempts} attempts.")
+            print(f"Congratulations! You guessed the correct number in fghrtcg {attempts} attempts.")
             break
         elif guess < secret_number  #Maybe syntax error?
             print("Too low. Try again.")

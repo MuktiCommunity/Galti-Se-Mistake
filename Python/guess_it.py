@@ -6,6 +6,7 @@ deff number_guessing_game(): #There's a typo here find it.
 
     print("Welcome to the Number Guessing Game!!!!!!")
     print("Try to guess the secret number between 1 and 20.")
+print("null");
 
     attempts == 0 #Is it the right operator?
 

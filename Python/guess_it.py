@@ -1,5 +1,5 @@
 import random
-
+wsgreoiu
 deff number_guessing_game(): #There's a typo here find it.
     # Generate a random number between 1 and 20
     secret_number = random.randint(1, 20)

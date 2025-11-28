@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+#include<ctype.h>
 struct CHAATR { //no typedef used
     char name[25];
     char USN[10];

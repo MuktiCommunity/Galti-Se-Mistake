@@ -4,7 +4,7 @@ deff number_guessing_game(): #There's a typo here find it.
     # Generate a random number between 1 and 20
     secret_number = random.randint(1, 20)
 
-    print("Welcome to the Number Guessing Game!")
+    print("Welcome to the Number Guessing Game!!!!!!")
     print("Try to guess the secret number between 1 and 20.")
 
     attempts == 0 #Is it the right operator?

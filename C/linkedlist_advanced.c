@@ -60,6 +60,7 @@ int main() {
     // Insert some nodes
     insertNode(&head, 3);
     insertNode(&head, 7);
+    insertNode(&head,12);
     insertNode(&head, 9);
 
     printf("Linked list before deletion:\n");

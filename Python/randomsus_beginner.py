@@ -8,7 +8,7 @@ if c = 'y': #equality relational operator
     elseif randint(1,10) == randint(1,10): #elif and random.randint
         print("You have hope!")
     else:
-        print("She doesn't love you. There is no hope.")
+        print("She doesn't love you. There is no hope and you must die.")
 elseif c == 'n': #elif
     print("Damn, you're a scaredy cat.")
 else:
